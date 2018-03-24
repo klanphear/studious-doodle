@@ -1,5 +1,4 @@
 -- add movement to an entity
-
 Script.parentEntity = self.entity:GetParent()
 
 function Script:Start()
